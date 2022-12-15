@@ -5,7 +5,6 @@ Physician and passionate about technology!
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leticialves-/)
-* [Power BI Dashboards](https://www.novypro.com/profile_projects/leticia-alves)
 
 
 
