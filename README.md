@@ -1,6 +1,6 @@
 
 # Leticia Alves
-Physician and passionate about technology!
+Physician. Currently, studying about Data Science and Artificial Intelligence applied to Health.
 
 
 **Links:**
