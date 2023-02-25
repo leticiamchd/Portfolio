@@ -5,6 +5,7 @@ Physician. Currently, studying about Data Science and Artificial Intelligence ap
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/leticialves-/)
+* [Medium](https://medium.com/@alvesleticia)
 
 
 
